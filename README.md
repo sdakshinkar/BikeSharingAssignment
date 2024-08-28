@@ -4,10 +4,10 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- bike sharing dataset is  being used
+- This project attempts to create linear regression model for bike sharing dataset
+- BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits
+- Boombikes want to find which variables are significant in predicting the demand for shared    bikes, How well those variables describe the bike demands
+- bike sharing dataset is being used
 
 
 
