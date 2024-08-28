@@ -32,5 +32,5 @@ Give credit here.
 
 
 ## Contact
-Created by [sdakshinkar@db.com] - feel free to contact me!
+Created by [sdakshinkar@gmail.com] - feel free to contact me!
 
